@@ -6,3 +6,7 @@ JSON logging for use with [Pyjangle][pyjangle].  Bootstrap using [`initialize_lo
 [pyjangle]: <https://github.com/BellsteinLabs/pyJangle/tree/main>
 [reference]: <https://github.com/BellsteinLabs/pyJangle/blob/main/example/main.py>
 [initialize]: <https://github.com/BellsteinLabs/pyjangle_json_logging/blob/main/src/pyjangle_json_logging/logging.py>
+
+## Installation
+
+```pip install pyjangle_json_logging```
